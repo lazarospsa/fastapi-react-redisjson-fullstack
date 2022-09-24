@@ -8,8 +8,6 @@ from redis_om import get_redis_connection, HashModel
 from typing import Optional
 from starlette.requests import Request
 # import fastapi_jwt_auth
-# import uvicorn
-
 
 load_dotenv()
 
